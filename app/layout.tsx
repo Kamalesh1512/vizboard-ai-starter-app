@@ -8,8 +8,9 @@ import { ThemeProvider } from "@/components/theme-provider";
 const outfit=Outfit({subsets:['latin']})
 
 export const metadata: Metadata = {
-  title: "VizBoard.ai",
+  title: "VizBoardAI",
   description: "Visualise Your Docx",
+  icons:'/logo.png'
 };
 
 export default function RootLayout({
