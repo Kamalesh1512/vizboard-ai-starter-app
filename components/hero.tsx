@@ -11,11 +11,11 @@ export function Hero() {
           <BarChart className="h-12 w-12 text-primary/80 animate-pulse delay-100" />
           <PieChart className="h-12 w-12 text-primary/60 animate-pulse delay-200" />
         </div>
-        <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
+        <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center font-bold">
           Transform Your Files into Beautiful 
         </h1>
-        <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl"> 
-          Visualizations
+        <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center font-bold"> 
+        Visualizations
         </h1>
         
         <p className="max-w-[650px] mt-6 text-gray-500 md:text-lg dark:text-gray-400 text-center">
